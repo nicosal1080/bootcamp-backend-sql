@@ -1,7 +1,6 @@
-# bootcamp-backend-sql 🔙🔚🐘
-Bootcamp Backend SQL
+# Bootcamp-Backend -> Postgres + SQL 🐘🔙🔚
 
-Aca podran encontrar todos los archivos que estaremos usando durante la parte de SQL en el bootcamp 🤓.
+Aca podran encontrar todos los archivos que estaremos usando durante la parte de SQL en el bootcamp.
 
 ### Archivos y Videos:
 **estudiante-4.sql**      &nbsp;&nbsp;&nbsp;     Filtrando Datos > Tarea #4 <br/>
